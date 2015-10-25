@@ -8,4 +8,4 @@ The script run_analysis.R executes the 5 steps described in the course project's
 * __activities__ contains data from activity_labels.txt.
 * __mean_and_std_features__ contains column name.
 * __all_data__ merges __x_data__, __y_data__ and __subject_data__.
-* __averages_data__ contains the relevant averages after applying __ddply()__
+* __averages_data__ contains the relevant averages after applying __ddply()__.
