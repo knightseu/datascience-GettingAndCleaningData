@@ -2,10 +2,10 @@
 The script run_analysis.R executes the 5 steps described in the course project's description.
 
 # Variables
-* x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the according downloaded files.
-* x_data, y_data and subject_data merge the previous datasets.
-* features contains the correct names for the x_data dataset
-* mean_and_std_features column names stored in.
-* activities data from activity_labels.txt.
-* all_data merges x_data, y_data and subject_data in a big dataset.
-* averages_data contains the relevant averages after applying ddply()
+* __x_train__, __y_train__, __x_test__, __y_test__, __subject_train__ and __subject_test__ contain the data from the according downloaded files.
+* __x_data__, __y_data__ and __subject_data__ merge the previous datasets.
+* __features__ contains the correct names for the __x_data__ dataset.
+* __activities__ contains data from activity_labels.txt.
+* mean_and_std_features" contains column name.
+* __all_data__ merges x_data, y_data and subject_data in a big dataset.
+* __averages_data__ contains the relevant averages after applying __ddply()__
